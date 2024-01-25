@@ -1,7 +1,0 @@
-
-
-Estudar o que é:
-
-JS
-
-.then(function)
